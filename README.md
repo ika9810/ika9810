@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&&fontAlignY=40&descAlign=60&descAlignY=57)  
-![sudarlife's github stats](https://github-readme-stats.vercel.app/api?username=sudar-life&count_private=true&show_icons=true&theme=Gradient) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudar-life&layout=compact)
+!JONGHEON LEE's github stats](https://github-readme-stats.vercel.app/api?username=ika9810&count_private=true&show_icons=true&theme=Gradient) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudar-life&layout=compact)
 <!--
 **ika9810/ika9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
