@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&&fontAlignY=40&descAlign=60&descAlignY=57)
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![JONGHEON LEE's github stats](https://github-readme-stats.vercel.app/api?username=ika9810&count_private=true&show_icons=true&theme=calm) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ika9810&layout=compact&theme=calm)
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ika9810&layout=compact&theme=calm)
 <!--
 **ika9810/ika9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
