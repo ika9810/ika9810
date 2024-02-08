@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&&fontAlignY=40&descAlign=60&descAlignY=57)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ika9810&layout=compact&theme=calm)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ika9810&layout=compact&theme=calm)-->
 <!--
 **ika9810/ika9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
